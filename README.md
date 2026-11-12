@@ -44,7 +44,7 @@ My current development priorities are:
 - Improving automated tests, authorization, configuration, and deployment documentation.
 - Exploring Odoo integrations, n8n automation, and AI-powered applications.
 
-AI and automation are areas I'm developing; a small clustering exercise is not presented as production AI experience. I aim to document integrations with runnable examples and honest limitations as they are completed.
+I'm building toward AI-assisted business tools and reproducible integrations, with a focus on useful workflows, evaluation, and clear documentation.
 
 ## GitHub Activity
 Explore my [repositories](https://github.com/Albarq-CS?tab=repositories) and [contribution activity](https://github.com/Albarq-CS?tab=overview). GitHub's native graph below shows the live activity available to visitors, without external ranking or streak widgets.
